@@ -12,6 +12,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### `routes`
+
+This project has used routes component included too <br />
+(http://localhost:3000/AddProduct) will take one to a new form called Add Product form.
+
+(http://localhost:3000/UserDetails) will take one to a new form called User Details form.
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
@@ -66,3 +74,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+##Since many styles couldn't be incorporated with Formik for a better performance issue. So some fields of Formik like FastField, Field, FieldArray, etc have not been used.
+
